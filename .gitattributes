@@ -1,2 +1,0 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
-*.Pertemuan7 filter=lfs diff=lfs merge=lfs -text
